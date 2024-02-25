@@ -58,7 +58,7 @@ This notebook is used for the initial setup of the Postgre data source and sampl
 <ol>
   <li>Initialize Databases -  ✅</li>
   <li>Create embeddings for product names and create collection - ✅</li>
-  <li>Extending SimpleEmbeddingService to handle images</li>
-  <li>Create image embeddings for product images and update collection</li>
-  <li>Automation of feature store updates with Prefect</li>
+  <li>Extending SimpleEmbeddingService to handle images - ✅</li>
+  <li>Create image embeddings for product images and update collection - ✅</li>
+  <li>Automation of feature store updates with Prefect - ✅</li>
 </ol>
